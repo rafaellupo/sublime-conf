@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:var ${2:vm} = }new Vue({
+	el: "#${3:replace}"
+
+	${4}
+})
+]]></content>
+	<tabTrigger>vue</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

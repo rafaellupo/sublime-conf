@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:vm}.\$watch('${2:someObject}', ${3:callback}, {
+  ${4://content}
+})
+]]></content>
+	<tabTrigger>wat</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
