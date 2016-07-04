@@ -1,5 +1,11 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "",
+	"font_size": 15,
 	"ignored_packages":
 	[
-	]
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"show_panel_on_build": false
 }

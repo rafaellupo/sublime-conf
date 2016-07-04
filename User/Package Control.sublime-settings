@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Laravel 5 Artisan",
 		"Origami",
 		"PHP Companion",
-		"PHP Getters and Setters"
+		"PHP Getters and Setters",
+		"SublimeLinter",
+		"SublimeLinter-php"
 	]
 }
